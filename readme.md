@@ -1,7 +1,8 @@
-<a align="center" href="http://shotjs.org"><img width="100%" src="http://shotjs.org/images/thumbnail.png" alt="Shot - A realtime framework for build middleware layers in Node.js."></a>
+<a align="center" href="http://shotjs.org"><img width="100%" src="http://shotjs.org/images/thumbnail.png" alt="Shot - A fast streamline to build of realtime middleware layers in Node.js."></a>
 
 > Master of ceremonies for generators in the Shot CLI.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7bf1ac4e65d7475396760ce9a10b83fb)](https://www.codacy.com/app/shotjs/shot-cli?utm_source=github.com&utm_medium=referral&utm_content=shotjs/shot-cli&utm_campaign=badger)
 [![Travis Status](https://travis-ci.org/shotjs/shot-cli.svg?branch=master)](https://travis-ci.org/shotjs/shot-cli?branch=master)
 [![Codacy Status](https://img.shields.io/codacy/grade/7bf1ac4e65d7475396760ce9a10b83fb/master.svg)](https://www.codacy.com/app/shotjs/shot-cli/dashboard)
 [![Dependencies Status](https://david-dm.org/shotjs/shot-cli.svg)](https://david-dm.org/shotjs/shot-cli)
@@ -12,7 +13,7 @@
 
 ## Why it's awesome?
 
-Master of ceremonies for generators in the Shot CLI.
+Shot is a fast streamline to build of realtime middleware layers in Node.js. No complexity. No stress. Using some technologies you love: Express, MonogoDB and Socket.IO. Specially designed for higher productivity to further enhance your time.
 
 
 ## Install
