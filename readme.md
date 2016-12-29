@@ -34,7 +34,7 @@ $ cd new_app
 $ npm start
 ```
 
-*Note : Please make sure your MongoDB is running. For MongoDB installation guide see [this](https://docs.mongodb.org/v3.0/installation/).*
+*NOTE: Please make sure your MongoDB is running. For MongoDB installation guide see [this](https://docs.mongodb.org/v3.0/installation/).*
 
 
 ## Table of Contents

@@ -52,9 +52,8 @@
 		"node": ">=4"
 	},
 	"scripts": {
+		"test": "eslint -c .eslintrc src && nyc ava",
 		"precommit": "npm t",
-		"ava": "nyc ava",
-		"eslint": "eslint -c .eslintrc src",
-		"test": "eslint && ava"
+		"preinstall": "npm up"
 	}
 }
