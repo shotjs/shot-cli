@@ -2,6 +2,7 @@
 
 > Master of ceremonies for generators in the Shot CLI.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7bf1ac4e65d7475396760ce9a10b83fb)](https://www.codacy.com/app/shotjs/shot-cli?utm_source=github.com&utm_medium=referral&utm_content=shotjs/shot-cli&utm_campaign=badger)
 [![Travis Status](https://travis-ci.org/shotjs/shot-cli.svg?branch=master)](https://travis-ci.org/shotjs/shot-cli?branch=master)
 [![Codacy Status](https://img.shields.io/codacy/grade/7bf1ac4e65d7475396760ce9a10b83fb/master.svg)](https://www.codacy.com/app/shotjs/shot-cli/dashboard)
 [![Dependencies Status](https://david-dm.org/shotjs/shot-cli.svg)](https://david-dm.org/shotjs/shot-cli)
