@@ -1,10 +1,10 @@
-<a align="center" href="http://shotjs.org"><img width="100%" src="http://shotjs.github.io/images/thumbnail.png" alt="Shot - A realtime framework for build middleware layers in Node.js."></a>
+<a align="center" href="http://shotjs.github.io"><img width="100%" src="http://shotjs.github.io/images/thumbnail.png" alt="Shot - A realtime framework for build middleware layers in Node.js."></a>
 
-> Master of ceremonies for generators in the Shot CLI.
+> A fast streamline to build of realtime middleware layers in Node.js.
 
-[![Travis Status](https://travis-ci.org/shotjs/shot-cli.svg?branch=master)](https://travis-ci.org/shotjs/shot-cli?branch=master)
-[![Codacy Status](https://img.shields.io/codacy/grade/7bf1ac4e65d7475396760ce9a10b83fb/master.svg)](https://www.codacy.com/app/shotjs/shot-cli/dashboard)
-[![Dependencies Status](https://david-dm.org/shotjs/shot-cli.svg)](https://david-dm.org/shotjs/shot-cli)
+[![Travis Status](https://travis-ci.org/shotjs/shot.svg?branch=master)](https://travis-ci.org/shotjs/shot?branch=master)
+[![Codacy Status](https://img.shields.io/codacy/grade/90207b2b022e439680e7a5c8d427654c/master.svg)](https://www.codacy.com/app/shotjs/shot/dashboard)
+[![Dependencies Status](https://david-dm.org/shotjs/shot.svg)](https://david-dm.org/shotjs/shot)
 [![Version Status](https://badge.fury.io/js/shot-cli.svg)](https://www.npmjs.com/package/shot-cli)
 [![Download Status](https://img.shields.io/npm/dt/shot-cli.svg)](https://www.npmjs.com/package/shot-cli)
 [![Gitter Chat](https://img.shields.io/badge/gitter-join_the_chat-4cc61e.svg)](https://gitter.im/shotjs/shot)
@@ -12,19 +12,32 @@
 
 ## Why it's awesome?
 
-Master of ceremonies for generators in the Shot CLI.
+Shot is a fast streamline to build of realtime middleware layers in Node.js. No complexity. No stress. Using some technologies you love: Express, MonogoDB and Socket.IO. Specially designed for higher productivity to further enhance your time.
 
 
 ## Install
 
-```sh
-$ npm install -g shot-cli
+
+**Install with npm**
+
+```bash
+$ npm install shot-cli --global
 ```
 
-*NOTE: Install this npm package with `-g` or `--global` to global use.*
+**Install with Yarn**
+
+```bash
+$ yarn global add shot-cli
+```
+
+Run with npx (without installing)
+
+```bash
+$ npx shot-cli
+```
 
 
-## Getting Started
+## Usage
 
 Create a new app using the command `shot init`, then install dependencies and run with `npm start`.
 
@@ -39,15 +52,15 @@ $ npm start
 
 ## Table of Contents
 
-- [Getting Started](http://shotjs.org/#getting-started)
-- [Tips](http://shotjs.org/#tips)
-- [Support](http://shotjs.org/#support)
-- [Examples](http://shotjs.org/#examples)
+- [Getting Started](http://shotjs.github.io/#getting-started)
+- [Tips](http://shotjs.github.io/#tips)
+- [Support](http://shotjs.github.io/#support)
+- [Examples](http://shotjs.github.io/#examples)
 
 
 ## Contributing
 
-Want to contribute? Follow these [recommendations](https://github.com/shotjs/shot-cli/blob/master/.github/contributing.md).
+Want to contribute? Follow these [recommendations](https://github.com/shotjs/shot/blob/master/.github/contributing.md).
 
 
 ## License
