@@ -1,4 +1,4 @@
-<a align="center" href="http://shotjs.org"><img width="100%" src="http://shotjs.org/images/thumbnail.png" alt="Shot - A realtime framework for build middleware layers in Node.js."></a>
+<a align="center" href="http://shotjs.org"><img width="100%" src="http://shotjs.github.io/images/thumbnail.png" alt="Shot - A realtime framework for build middleware layers in Node.js."></a>
 
 > Master of ceremonies for generators in the Shot CLI.
 
